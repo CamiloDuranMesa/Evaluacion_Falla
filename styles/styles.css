@@ -40,7 +40,7 @@ p{
     height: 400px;
     margin-left: 415px;
     margin-right: 20px;
-    box-shadow: 1px 3px 10px 5px mediumpurple;
+    box-shadow: 1px 3px 20px 5px mediumpurple;
 }
 
 .box2{
@@ -52,7 +52,7 @@ p{
     margin-top: 300px;
     margin-left: 30px;
     margin-right: 20px;
-    box-shadow: 1px 3px 10px 5px mediumpurple;
+    box-shadow: 1px 3px 20px 5px mediumpurple;
 }
 
 .box3{
@@ -61,7 +61,7 @@ p{
     width: 300px;
     height: 400px;
     margin-left: 30px;
-    box-shadow: 1px 3px 10px 5px mediumpurple;
+    box-shadow: 1px 3px 20px 5px mediumpurple;
 
 }
 
